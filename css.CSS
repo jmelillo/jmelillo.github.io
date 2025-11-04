@@ -1,0 +1,42 @@
+
+
+*{
+    padding: 0;
+    margin:0;
+}
+h1{
+    background-image: url(deschats.png)
+}
+#pageheader {
+    border: 1px solid black;
+    width: 90%;
+        margin:auto;
+}
+#Maincontent {
+background-color: darkgoldenrod;
+width: 50%
+}
+#rightnav {
+    background-color:#6f5fa0;
+        width: 40%
+}
+#leftnav {
+    background-color: mediumpurple;
+    width: 20%
+}
+img {
+    width: 50px;
+}
+div { 
+            color: #9461ec;
+            background-color: #3c11a4;
+            font-size: 20px;
+                font-style: italic;
+                font-family: Arial, monospace, serif;
+                border: 5px dotted #9480de;
+                border-radius: 50px;
+                padding: 20px;
+            }
+            div:hover {
+                background-color: #dc4d7c;
+}
