@@ -4,16 +4,14 @@
     padding: 0;
     margin:0;
 }
-h1{
-    background-image: url(deschats.png)
-}
+h1
 #pageheader {
     border: 1px solid black;
     width: 90%;
         margin:auto;
 }
 #Maincontent {
-background-color: darkgoldenrod;
+background-color: #af93e9;
 width: 50%
 }
 #rightnav {
